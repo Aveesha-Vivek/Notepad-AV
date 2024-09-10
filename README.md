@@ -14,11 +14,6 @@
 - Help > About
 
 https://github.com/Aveesha-Vivek/Notepad-AV/blob/main/Notepad%20AV/Screenshots/AV%20(1).png
-https://github.com/Aveesha-Vivek/Notepad-AV/blob/main/Notepad%20AV/Screenshots/AV%20(2).png
-https://github.com/Aveesha-Vivek/Notepad-AV/blob/main/Notepad%20AV/Screenshots/AV%20(3).png
-https://github.com/Aveesha-Vivek/Notepad-AV/blob/main/Notepad%20AV/Screenshots/AV%20(4).png
-https://github.com/Aveesha-Vivek/Notepad-AV/blob/main/Notepad%20AV/Screenshots/AV%20(5).png
-
 ### Watch the Video
 https://youtu.be/cdM9I0p8O5s?si=3jVCIRpKyHhwVqtw
 
