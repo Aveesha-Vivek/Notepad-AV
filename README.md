@@ -12,8 +12,7 @@
 - Edit > Select All
 - Edit > Undo
 - Help > About
-
-https://github.com/Aveesha-Vivek/Notepad-AV/blob/main/Notepad%20AV/Screenshots/AV%20(1).png
+- 
 ### Watch the Video
 https://youtu.be/cdM9I0p8O5s?si=3jVCIRpKyHhwVqtw
 
