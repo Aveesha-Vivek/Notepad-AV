@@ -12,7 +12,7 @@
 - Edit > Select All
 - Edit > Undo
 - Help > About
-- 
+  
 ### Watch the Video
 https://youtu.be/cdM9I0p8O5s?si=3jVCIRpKyHhwVqtw
 
